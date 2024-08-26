@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Danilaish
+- 👀 I’m interested in Computer stuff
+- 🌱 I’m currently learning python, video editing, html coding #web designing
